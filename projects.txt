@@ -13,7 +13,7 @@ Palindrome Checker: Create a program that checks if a given word or phrase is a 
 
 Basic File Manager: Write a program that allows users to perform file operations like copying, moving, and deleting files.
 
-Morse Code Translator: Build a program that can translate text to Morse code and vice versa.
+Build a multiple-choice quiz game with a predefined set of questions and answers. Keep track of the user's score, display correct answers at the end, and offer a summary of their performance.
 
 Random Quote Generator: Create a program that displays random quotes to the user when they run it.
 
